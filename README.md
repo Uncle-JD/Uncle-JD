@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Jay-Dee Daniels!
+🚀 Coding Enthusiast | 💡 Always Learning | 💰 Making Money with HTML & CSS
 
-<!--
-**Uncle-JD/Uncle-JD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Fun Facts:**
+- 🕹️ I love gaming & hiking.
+- 🌍 Learning about self-improvement and exploring the great outdoors.
+- 🎨 In the near future i want to be designing cool websites with HTML & CSS.
 
-Here are some ideas to get you started:
+💻 **My Skills:**  
+![HTML]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![CSS]
+
+📫 **Let's Connect:**
